@@ -1,0 +1,10 @@
+﻿  BicycleSystem.cpp
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(219): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(220): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(221): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(256): warning C4838: 从“double”转换到“float”需要收缩转换
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(256): warning C4305: “初始化”: 从“double”到“float”截断
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(260): warning C4838: 从“double”转换到“float”需要收缩转换
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(260): warning C4305: “初始化”: 从“double”到“float”截断
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(280): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BicycleSystem.vcxproj -> H:\BicycleSystem\BicycleSystem\x64\Debug\BicycleSystem.exe

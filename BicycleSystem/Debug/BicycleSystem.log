@@ -1,0 +1,3 @@
+﻿  BicycleSystem.cpp
+h:\bicyclesystem\bicyclesystem\bicyclesystem\bicyclesystem.cpp(245): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BicycleSystem.vcxproj -> H:\BicycleSystem\BicycleSystem\Debug\BicycleSystem.exe
